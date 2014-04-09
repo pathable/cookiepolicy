@@ -1,0 +1,10 @@
+{
+	"this_module": {
+		"config": {}
+	},
+	"modules": {
+		"cookiepolicy": {
+			"version": "0.1"
+		}
+	}
+}
